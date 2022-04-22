@@ -1,3 +1,3 @@
 # Interactive-Web
 
-1. Airpods Pro(will be implemented...)
+1. Airpods Pro(will be implemented soon😢)
