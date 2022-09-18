@@ -1,6 +1,6 @@
 # Interactive-Web
 
-Develop `creative` and `innovative` website like in Awwwards.
+Interactive website inspired by Awwwards.
 
 1. Airpods Pro
 
